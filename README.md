@@ -1,5 +1,15 @@
 # Employee Attrition Prediction
 
+## 🎓 Internship Details
+
+**Internship Provider:** CodeTech IT Solutions
+
+**Intern ID:** CITS1618
+
+**Full Name:** Nuka Aravindh
+
+**Duration:** 4 Weeks
+
 ## Project Overview
 
 Employee Attrition Prediction is a Machine Learning project that predicts whether an employee is likely to leave a company. The project uses the IBM HR Analytics Employee Attrition dataset and applies data preprocessing, feature engineering, class imbalance handling, and machine learning techniques to build a predictive model.
